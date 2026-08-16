@@ -1,0 +1,46 @@
+🔥 Basic Project Questions
+Tell me about your E-Commerce Sales & Profit Analytics project.
+Why did you choose this project?
+What was the main objective of the project?
+What type of data did you use?
+How many rows and columns were in your dataset?
+What were the important columns in your dataset?
+What business problem were you trying to solve?
+What were your major findings?
+🐍 Python / Pandas Questions
+Why did you use Python in this project?
+Why did you use Pandas?
+How did you handle missing values?
+How did you identify duplicate records?
+How did you clean the dataset?
+How did you calculate total sales?
+How did you calculate total profit?
+How did you find the top 10 products?
+How did you perform category-wise analysis?
+Which Pandas functions did you use?
+🗄️ SQL / MySQL Questions
+Why did you use MySQL?
+How did you create your database?
+What is the structure of your sales_data table?
+Write a query to calculate total sales.
+Write a query to calculate total profit.
+How did you find the top-selling products?
+How did you perform monthly sales analysis?
+How did you calculate category-wise profit?
+What is GROUP BY and where did you use it?
+What is the difference between WHERE and HAVING?
+Did you use JOINs in your project? Why?
+📊 Power BI Questions
+Why did you choose Power BI?
+What does your dashboard show?
+What KPIs did you create?
+How did you calculate Total Sales?
+How did you calculate Total Profit?
+What is DAX?
+Which DAX measures did you create?
+What is the difference between a measure and a calculated column?
+How did you create the monthly sales trend?
+How did you create filters/slicers?
+Why did you choose these particular charts?
+How did you make the dashboard interactive?
+How did you connect Power BI with your data?
